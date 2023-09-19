@@ -1,0 +1,47 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500);
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/menu.css");
+@import url("components/block.css");
+
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	margin: 0px;
+}
+
+h1,h2,h3{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 800;
+}
+h1{
+	color: white;
+}
+
+h2{
+	font-size: 34px;
+}
+
+a{
+	text-decoration: none;
+
+}
+
+
+h2,h3{
+	color: #153249;
+}
+
+#head-description{
+	color: white;
+}
+
+p{
+	text-align: justify;
+}

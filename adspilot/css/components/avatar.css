@@ -1,0 +1,13 @@
+.avatar{
+	width: 200px;
+	height: 200px;
+	object-fit: cover;
+	border-radius: 50%;
+	border-width: 4px;
+	border-style: solid;
+	border-color: #EA3F45;
+	margin: 0 20px 5px 0;
+	float: left;
+	shape-outside: margin-box;
+
+}
